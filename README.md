@@ -1,8 +1,7 @@
 # Télétravailleurs nantais
 
 > Oyez !
-> Captain Berrotte est une organisation nantaise non formelle, non lucrative, qui explore les problématiques des télétravailleurs.
-> Où trouver des endroits pas chers et cool pour télétravailler à Nantes ? Quels sont les meilleurs outils pour s'organiser ? Comment travailler efficacement avec les autres quand on est à distance ? On est là pour vous aider.
+> Captain Berrotte est une organisation nantaise non formelle, non lucrative. On décrit ici nos endroits pas chers et cool pour télétravailler, tout comme nos astuces pour s'organiser seuls ou à plusieurs à distance. 
 > Bonne visite et bon (télé)travail, moussaillon.
 
 *Captain Berrotte*
