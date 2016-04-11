@@ -1,7 +1,9 @@
 # Trouver un bon spot pour télétravailler à Nantes
 
-> Public cible: télétravailleurs
-> Temps de lecture: 3 minutes
+* Public cible: télétravailleurs
+* Temps de lecture: 3 minutes
+
+Trouver un bon spot pour télétravailler à Nantes:
 
 * gratuitement où à faible coût
 * dans un cadre adapté (niveau sonore, réseau wifi, électricité, espace disponible)
