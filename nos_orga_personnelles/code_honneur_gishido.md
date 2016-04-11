@@ -1,7 +1,7 @@
+#GYSHIDO
+
 * Public cible: personnes qui travaillent en équipe
 * Temps de lecture: 3 minutes
-
-#GYSHIDO
 
 > "Un code d'honneur qu'on s'engage à pratiquer envers nous-mêmes, et envers les autres. En pratique, on a parlé ensemble de ce code d'honneur, il nous a fait rire, on le considère sérieusement, du coup on s'engage moralement envers l'autre à faire de notre mieux pour respecter ce code d'honneur qui représente quelques attitudes minimalistes qui nous semblent faciliter notre travail commun."
 
