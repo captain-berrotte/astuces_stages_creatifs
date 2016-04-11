@@ -1,5 +1,8 @@
 # Getting Things Done© (GTD)
 
+* Public cible: télétravailleurs
+* Temps de lecture: 3 minutes
+
 La pratique de GTD m'a permis de gagner du temps dans la manière de prioriser et de traiter mes tâches. 
 
 ## A quoi ça sert ? 
