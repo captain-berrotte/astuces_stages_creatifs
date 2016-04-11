@@ -1,3 +1,6 @@
+> Public cible: télétravailleurs
+> Temps de lecture: 3 minutes
+
 # Trouver un bon spot pour télétravailler à Nantes
 
 * gratuitement où à faible coût
@@ -17,4 +20,6 @@ On réfléchit en fonction de notre état émotionnel/santé et notre besoin de 
 Si on a besoin d'être dans un endroit tranquille à midi pour réfléchir de manière créative, on aura plutôt tendance à aller à la Serre tropicale du jardin des plantes. 
 Si on a pas de chien et qu'on a envie d'être dans un endroit cocooning, on prendra ira au bar à chat ou au lieu unique s'il n'y a pas grande monde. 
 On invite les télétravailleurs qu'on croise à partager leurs bons plans sur la carte.
+
+> Publié par Thomas Wolff selon les termes de la licence Creative Commons BY-SA
 
