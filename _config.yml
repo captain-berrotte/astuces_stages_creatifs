@@ -1,11 +1,11 @@
 daktary:
-  home: /multibao/captain-berrotte/bons_plans_teletravail/README.md
+  home: /multibao/captain-berrotte/bons_plans_teletravail
   meta:
     title: 'Astuces pour des stages créatifs'
     description: 'Comment accompagner un stage lorsqu'il n'y a pas de bureaux? Comment favoriser l'autonomisation? On partage ici quelques regards et astuces.'
 
 prose:
-  rooturl: ''
+  rooturl: 'monter_competences'
   media: 'media'
   metadata:
     contributions:
