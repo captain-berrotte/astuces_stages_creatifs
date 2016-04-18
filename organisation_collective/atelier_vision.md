@@ -1,4 +1,11 @@
-# Ateliers visions
+---
+description: S'aligner sur une vision d'équipe partagée
+caption: https://github.com/captain-berrotte/bons_plans_teletravail/blob/master/media/alignement%20equipe.jpg?raw=true
+published: true
+title: L'atelier vision
+---
+
+# Atelier vision
 
 L'atelier décrit nous permet de nous aligner dans le cadre du stage en clarifiant les intentions du stagiaire et du tuteur.
 On le joue une première fois en tout début de stage, puis on le valide / enrichit / épure lors des retrospectives de fin de semaine. 
