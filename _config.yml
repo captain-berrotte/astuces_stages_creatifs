@@ -2,7 +2,7 @@ prose:
   rooturl: 'monter_competences'
   media: 'media'
   metadata:
-    astuces_stages_creatifs:
+    monter_competences:
       - name: "title"
         field:
           element: "text"
