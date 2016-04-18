@@ -1,7 +1,6 @@
 ---
 description: Lorsqu'on a pas de bureaux, où se retrouver pour coworker? 
 caption: https://github.com/captain-berrotte/bons_plans_teletravail/blob/master/media/teletravail_cowork.jpg?raw=true
-alt text: teletravailler dans un cafe
 published: true
 title: Trouver un espace adapté où coworker
 ---
