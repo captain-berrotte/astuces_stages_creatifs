@@ -6,27 +6,19 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "Titre de la fiche"
-          value: "Contribution multiBàO"
+          label: "Titre"
+          value: "Indiquer ici le nom de la ressource"
       - name: "description"
         field:
           element: "textarea"
           label: "Description"
           help: "en une courte phrase"
           value: ""
-      - name: "tags"
+      - name: "image"
         field:
-          element: "multiselect"
-          label: "Mots clés (max 5)"
-          placeholder: "choisir des tags"
-          options:
-            - name: "Ice breaker"
-              value: "Ice breaker"
-            - name: "Energizer"
-              value: "Energizer"
-            - name: "Organisation"
-              value: "Organisation"
-            - name: "Collaboration"
-              value: "Collaboration"
-            - name: "Citoyenneté"
-              value: "Citoyenneté"
+          element: "text"
+          label: "Ajouter une image à la fiche (350 x 150 pixels)"
+          placeholder: "Lien vers l'image (hypertexte)"
+          alterable: true
+
+
