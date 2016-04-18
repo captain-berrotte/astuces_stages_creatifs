@@ -1,9 +1,15 @@
 ---
-description: Lorsqu'on a pas de bureaux, où se retrouver pour coworker? 
-caption: https://github.com/captain-berrotte/bons_plans_teletravail/blob/master/media/teletravail_cowork.jpg?raw=true
+author: "Outils Réseaux, Moustic, SupAgroFlorac"
+description: Un accélérateur de projet permet de bénéficier du soutien de ses pairs pour résoudre une problématique
+tags: 
+  - Ice breaker
+  - Energizer
+  - Collaboration
+  - Projets
 published: true
-title: Trouver un espace adapté où coworker
+title: Accélérateur de projets
 ---
+
 
 # Pas de bureaux ... comment faire pour trouver un espace où coworker? 
 
