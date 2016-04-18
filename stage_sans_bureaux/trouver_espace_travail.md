@@ -1,15 +1,9 @@
 ---
-author: "Outils Réseaux, Moustic, SupAgroFlorac"
-description: Un accélérateur de projet permet de bénéficier du soutien de ses pairs pour résoudre une problématique
-tags: 
-  - Ice breaker
-  - Energizer
-  - Collaboration
-  - Projets
+description: Trouver un espace de travail où coworker, alternative aux bureaux
+caption: https://github.com/captain-berrotte/bons_plans_teletravail/blob/master/media/teletravail_cowork.jpg?raw=true
 published: true
 title: Accélérateur de projets
 ---
-
 
 # Pas de bureaux ... comment faire pour trouver un espace où coworker? 
 
