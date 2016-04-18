@@ -1,6 +1,6 @@
 ---
 description: S'aligner sur une vision d'équipe partagée
-caption: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/alignement%20equipe.jpg?raw=true
+image: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/alignement%20equipe.jpg?raw=true
 published: true
 title: L'atelier vision
 ---
