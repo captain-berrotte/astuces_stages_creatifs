@@ -7,11 +7,7 @@ title: Formation éclair au Getting Things Done
 
 # Getting Things Done© (GTD)
 
-Dans le cadre du stage, il est proposé aux stagiaires de monter en compétences et du même coup de monter en efficicience sur le travail réaliser. 
-
-Les stagiaires s'entraînement à deux pratiques: 
-* Getting Things Done: pour structurer leur pensée
-* Kanban
+Dans le cadre du stage, il est proposé aux stagiaires de monter en compétence en orga personnelle. L'entraînement au GTD en fait partie.
 
 La pratique Getting Things Done est présentée ci dessous. 
 
