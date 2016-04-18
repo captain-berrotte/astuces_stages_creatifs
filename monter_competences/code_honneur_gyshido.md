@@ -1,6 +1,6 @@
 ---
 description: Le GYSHIDO ou GISHIDO est un code d'honneur permettant de renforcer l'efficacité en équipe.
-caption: https://github.com/captain-berrotte/bons_plans_teletravail/blob/master/media/gishido.jpg?raw=true
+caption: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/gishido.jpg?raw=true
 published: true
 title: Le code d'honneur GYSHIDO
 ---
