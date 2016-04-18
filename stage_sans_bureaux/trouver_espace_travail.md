@@ -2,7 +2,7 @@
 description: Trouver un espace de travail où coworker, alternative aux bureaux
 caption: https://github.com/captain-berrotte/bons_plans_teletravail/blob/master/media/teletravail_cowork.jpg?raw=true
 published: true
-title: Accélérateur de projets
+title: Alternatives au bureau pour coworker
 ---
 
 # Pas de bureaux ... comment faire pour trouver un espace où coworker? 
