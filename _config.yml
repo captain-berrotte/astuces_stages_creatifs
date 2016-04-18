@@ -1,21 +1,39 @@
+baseurl: http://dev.multibao.org/#captain-berrotte
+title: Astuces stages créatifs multiBàO
+description: Les tuteurs/stagiaires de multiBàO partagent leurs astuces.
 prose:
-  rooturl: '_posts'
+  rooturl: "#captain-berrotte"
+  media: "media"
+  siteurl: "http://www.rebeccadianeharris.com"
+prose:
+  rooturl: 'astuces_stages_creatifs'
   media: 'media'
   metadata:
-      _posts:
-    - name: "title"
-      field:
-        element: "text"
-        label: "Titre"
-        value: "Editer ici le titre de votre fiche"
-    - name: "description"
-      field:
-        element: "textarea"
-        label: "Description"
-        value: ""
-    - name: "caption"
-      field:
-        element: "textarea"
-        label: "Lien hypertexte vers l'image de présentation"
-        value: ""
-
+    astuces_stages_creatifs:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titre de la fiche"
+          value: "Contribution multiBàO"
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+          help: "en une courte phrase"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Mots clés (max 5)"
+          placeholder: "choisir des tags"
+          options:
+            - name: "Ice breaker"
+              value: "Ice breaker"
+            - name: "Energizer"
+              value: "Energizer"
+            - name: "Organisation"
+              value: "Organisation"
+            - name: "Collaboration"
+              value: "Collaboration"
+            - name: "Citoyenneté"
+              value: "Citoyenneté"
