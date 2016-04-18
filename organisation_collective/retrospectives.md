@@ -1,6 +1,6 @@
 ---
 description: Regard et astuces sur l'animation des retrospectives.
-caption: https://github.com/captain-berrotte/bons_plans_teletravail/blob/master/media/retrospective.jpg
+caption: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/retrospective.jpg
 published: true
 title: Animer une retrospective
 ---
