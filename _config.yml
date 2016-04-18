@@ -1,8 +1,5 @@
-baseurl: http://dev.multibao.org/#captain-berrotte
-title: Astuces stages créatifs multiBàO
-description: Les tuteurs/stagiaires de multiBàO partagent leurs astuces.
 prose:
-  rooturl: 'astuces_stages_creatifs'
+  rooturl: 'monter_competences'
   media: 'media'
   metadata:
     astuces_stages_creatifs:
