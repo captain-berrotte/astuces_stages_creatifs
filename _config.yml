@@ -1,34 +1,19 @@
-daktary:
-  home: /multibao/captain-berrotte/bons_plans_teletravail
-  meta:
-    title: 'Astuces pour des stages créatifs'
-    description: 'Comment accompagner un stage lorsqu'il n'y a pas de bureaux? Comment favoriser l'autonomisation? On partage ici quelques regards et astuces.'
-
 prose:
-  rooturl: 'monter_competences'
   media: 'media'
   metadata:
-    contributions:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Titre de la fiche"
-          value: ""
-      - name: "caption"
-        field:
-          element: "text"
-          label: "Image de présentation (350 x 150px)"
-          help: "lien hypertexte de l'image"
-          value: ""
-      - name: "alt text"
-        field:
-          element: "text"
-          label: "Description de l'image"
-          value: ""
-      - name: "description"
-        field:
-          element: "textarea"
-          label: "Description"
-          help: "en une courte phrase"
-          value: ""
+    - name: "title"
+      field:
+        element: "text"
+        label: "Titre"
+        value: "Editer ici le titre de votre fiche"
+    - name: "description"
+      field:
+        element: "textarea"
+        label: "Description"
+        value: ""
+    - name: "caption"
+      field:
+        element: "textarea"
+        label: "Lien hypertexte vers l'image de présentation"
+        value: ""
 
