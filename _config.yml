@@ -7,7 +7,7 @@ prose:
         field:
           element: "text"
           label: "Titre"
-          value: "Indiquer ici le nom de la ressource"
+          value: "Indiquer ici le nom de votre fiche"
       - name: "description"
         field:
           element: "textarea"
@@ -18,7 +18,7 @@ prose:
         field:
           element: "text"
           label: "Ajouter une image à la fiche (350 x 150 pixels)"
-          placeholder: "Lien vers l'image (hypertexte)"
+          placeholder: "Lien hypertexte"
           alterable: true
 
 
