@@ -7,15 +7,14 @@ title: Le code d'honneur GYSHIDO
 
 #GYSHIDO
 
-Le GYSHIDO ou *Getting Your Shit Done* est un code d'honneur à la fois sérieux et comique qu'on tente de s'appliquer en équipe.
+Le GYSHIDO ou *Getting Your Shit Done* est un code d'honneur à la fois sérieux et comique.
 
-Il nous permet de prend du recul sur la qualité de nos interactions et de notre travail ... et d'ouvrir la discussion. 
+Les stagiaires sont invités à tenter de pratiquer ce code d'honneur, tout comme le tuteur.
 
-Au bout de la deuxième semaine de stage, on se prend un petit quart d'heure pour présenter le stage, et en rigoler. 
-
-En parler permet de rendre visibles quelques pratiques qui seront utiles pour bien se coordonner dans le stage. 
+A vrai dire, il s'agit d'une invitation aux échanges entre stagiaires et tuteur. 
 
 C'est une base à partir de laquelle on pourra discuter tout au long du stage. 
+
 
 ##Le code d'honneur du **G**etting **Y**our **Shi**t **Do**ne
 
