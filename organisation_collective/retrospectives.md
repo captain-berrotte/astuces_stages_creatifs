@@ -1,3 +1,11 @@
+---
+description: Regard et astuces sur l'animation des retrospectives.
+caption: https://github.com/captain-berrotte/bons_plans_teletravail/blob/master/media/retrospective.jpg
+published: true
+title: Animer une retrospective
+---
+
+
 # La retrospective
 
 Nous réalisons cet atelier en fin de semaine pour regarder comment ça c'est passée la semaine et ce qu'on peut améliorer. 
