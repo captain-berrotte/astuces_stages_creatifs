@@ -8,6 +8,8 @@
 
 *Captain Berrotte*
 
+![Stage](https://github.com/captain-berrotte/bons_plans_teletravail/blob/master/media/surfing_stage.jpg?raw=true)
+
 ## Licence
 
 L'intégralité des ressources de ce dépôt de fiches est publiée selon les termes de la licence Creative Commons BY-SA
