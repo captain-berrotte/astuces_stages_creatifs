@@ -1,6 +1,8 @@
 prose:
+  rooturl: '_posts'
   media: 'media'
   metadata:
+      _posts:
     - name: "title"
       field:
         element: "text"
