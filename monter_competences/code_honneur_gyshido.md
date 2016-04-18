@@ -1,9 +1,20 @@
+---
+description: Le GYSHIDO ou GISHIDO est un code d'honneur permettant de renforcer l'efficacité en équipe.
+caption: https://github.com/captain-berrotte/bons_plans_teletravail/blob/master/media/gishido.jpg?raw=true
+published: true
+title: Le code d'honneur GYSHIDO
+---
+
 #GYSHIDO
 
 Le GYSHIDO ou *Getting Your Shit Done* est un code d'honneur à la fois sérieux et comique qu'on tente de s'appliquer en équipe.
+
 Il nous permet de prend du recul sur la qualité de nos interactions et de notre travail ... et d'ouvrir la discussion. 
+
 Au bout de la deuxième semaine de stage, on se prend un petit quart d'heure pour présenter le stage, et en rigoler. 
+
 En parler permet de rendre visibles quelques pratiques qui seront utiles pour bien se coordonner dans le stage. 
+
 C'est une base à partir de laquelle on pourra discuter tout au long du stage. 
 
 ##Le code d'honneur du **G**etting **Y**our **Shi**t **Do**ne
