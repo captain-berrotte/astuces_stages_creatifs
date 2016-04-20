@@ -6,8 +6,11 @@
 
 Bonjour / salut / … 
 1. écrire dans la première phrase l'action que vous attendez de votre interlocuteur.
+
 2. dans la deuxième phrase spécifiez en une phrase synthétique le contexte de votre demande. Vous pouvez y indiquer qui vous êtes (ou ce que vous faites), et dans quelle cadre vous formulez votre demande.
+
 3. dans la troisième phrase, spécifiez la prochaine action attendue par votre interlocuteur et le délai dans lequel vous invitez votre interlocuteur à réaliser l'action. Si plusieurs actions sont attendues, spécifier une phrase par action. 
+
 Cordialement / a + / salutations, 
 –
 *Signature automatique*
@@ -68,12 +71,12 @@ Yo, j'arrive à 17h à Occitanie, peux tu me valider avant 16h que tu viens m'y 
 
 ## Quelques astuces
 
-### Importance du verbe d'action
+###Importance du verbe d'action
 
 Je vous contacte pour **acter** avec vous … / Je te contacte pour que tu me **confirmes** … / Pourrais tu m'**envoyer**… 
 Spécifiez dès la première phrase l'action finale que vous attendez de votre interlocuteur. Vous gagnez du temps. Lui aussi. 
 
-### Spécifier le délai de réalisation de l'action
+###Spécifier le délai de réalisation de l'action
 
 Pourrais tu me confirmer **avant mercredi soir**… / Pour pouvoir assurer [spécifier le contexte], j'attends ton document corrigé **avant le 2 avril soir** ; pourrais tu me valider que tu peux tenir ce délai ? 
 A abandonner : l'utilisation du mot urgent. C'est urgent n'est pas clair. Pourquoi ne pas plutôt dire :
@@ -84,6 +87,6 @@ A abandonner : l'utilisation du mot urgent. C'est urgent n'est pas clair. Pourq
 
 Si vous n'avez pas besoin de spécifier le contexte, ne le spécifiez pas. Epurez au nécessaire. S'il faut une phrase supplémentaire, c'est à dire si elle est indispensable pour que l'interlocuteur comprenne la demande, ajoutez la. 
 
-####Pas de baratin
+###Pas de baratin
 
 Clarifier ses intentions et les exposer clairement aux interlocuteurs. En pratiquant l'honneteté et la transparence on évite aux interlocuteurs de devoir décrypter ce que l'on raconte. Et on s'évite d'investir de l'énergie à devoir entretenir nos baratins. 
