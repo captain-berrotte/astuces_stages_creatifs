@@ -5,11 +5,10 @@
 ## 3 phrases
 
 Bonjour / salut / … 
-1. écrire dans la première phrase l'action que vous attendez de votre interlocuteur.
 
-2. dans la deuxième phrase spécifiez en une phrase synthétique le contexte de votre demande. Vous pouvez y indiquer qui vous êtes (ou ce que vous faites), et dans quelle cadre vous formulez votre demande.
-
-3. dans la troisième phrase, spécifiez la prochaine action attendue par votre interlocuteur et le délai dans lequel vous invitez votre interlocuteur à réaliser l'action. Si plusieurs actions sont attendues, spécifier une phrase par action. 
+* écrire dans la première phrase l'action que vous attendez de votre interlocuteur.
+* dans la deuxième phrase spécifiez en une phrase synthétique le contexte de votre demande. Vous pouvez y indiquer qui vous êtes (ou ce que vous faites), et dans quelle cadre vous formulez votre demande.
+* dans la troisième phrase, spécifiez la prochaine action attendue par votre interlocuteur et le délai dans lequel vous invitez votre interlocuteur à réaliser l'action. Si plusieurs actions sont attendues, spécifier une phrase par action. 
 
 Cordialement / a + / salutations, 
 –
