@@ -1,8 +1,8 @@
 prose:
-  rooturl: 'organisation_collective'
+  rooturl: '/'
   media: 'media'
   metadata:
-    organisation_collective:
+    "":
       - name: "title"
         field:
           element: "text"
