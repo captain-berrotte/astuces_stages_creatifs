@@ -1,8 +1,8 @@
 prose:
-  rooturl: 'monter_competences'
+  rooturl: 'astuces_stages_creatifs'
   media: 'media'
   metadata:
-    monter_competences:
+    astuces_stages_creatifs:
       - name: "title"
         field:
           element: "text"
