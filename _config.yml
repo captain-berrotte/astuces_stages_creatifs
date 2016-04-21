@@ -1,8 +1,8 @@
 prose:
-  rooturl: 'astuces_stages_creatifs'
+  rooturl: 'organisation_collective'
   media: 'media'
   metadata:
-    astuces_stages_creatifs:
+    organisation_collective:
       - name: "title"
         field:
           element: "text"
