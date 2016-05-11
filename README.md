@@ -1,3 +1,9 @@
+---
+title: Stages sans bureaux
+description: On a mis en place des méthodes pour s'organiser - parfois à distance - qu'on souhaite vous partager.
+image_url: https://github.com/multibao/contributions/blob/master/media/folder.png?raw=true
+---
+
 # Astuces pour des stages créatifs
 
 > Oyez !
