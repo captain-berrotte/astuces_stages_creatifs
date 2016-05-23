@@ -38,8 +38,6 @@ Je dépose ci dessous un article que j'ai rédigé sur les retrospectives, afin 
 
 ## Procédures
 
-![retrospective](http://wiki.ayeba.fr/file/view/retro-structure_fr.png/542598702/retro-structure_fr.png)
-
 Image par [Fabrice Aimetti](http://wiki.ayeba.fr/5+%C3%A9tapes+pour+rendre+efficace+votre+r%C3%A9trospective+de+sprint), publié sous licence Creative Commons BY
 
 Retrouvez plusieurs dizaines de formats de retrospective [ici en anglais](http://plans-for-retrospectives.com) et [ici en français](http://plans-for-retrospectives.com/index_fr.html?id=22-35-10-38-15)
