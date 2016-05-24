@@ -1,8 +1,7 @@
 ---
 description: Points quotidiens, daily, nous permettent de nous actualiser
-published: true
 title: Daily, réunions quotidiennes
-image: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/daily%20reunions.jpg?raw=true
+image_url: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/daily%20reunions.jpg?raw=true
 ---
 
 # Les Daily ou les réunions quotidiennes
