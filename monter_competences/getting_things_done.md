@@ -1,7 +1,7 @@
 ---
 description: Le Getting Things Done est une méthode d'organisation personnelle.
 title: Formation éclair au Getting Things Done
-image: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/getting_things_done.jpg?raw=true
+image_url: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/getting_things_done.jpg?raw=true
 ---
 
 # Getting Things Done© (GTD)
