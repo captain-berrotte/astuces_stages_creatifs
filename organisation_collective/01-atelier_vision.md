@@ -1,6 +1,6 @@
 ---
 description: Présentation de l'outil "vision"
-title: Tuteurs/stagiaires: s'aligner sur une vision commune
+title: Tuteurs/stagiaires, s'aligner sur une vision commune
 image_url: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/alignement%20equipe.jpg?raw=true
 ---
 
