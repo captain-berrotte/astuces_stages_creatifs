@@ -1,7 +1,6 @@
 ---
-description: Trouver un espace de travail où coworker, alternative aux bureaux
-published: true
-title: Alternatives au bureau pour coworker
+description: Cartographie de lieux de travail insolites et gratuits à Nantes
+title: Trouver à Nantes un bon spot pour travailler
 image: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/teletravail_cowork.jpg?raw=true
 ---
 
