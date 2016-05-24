@@ -1,6 +1,6 @@
 ---
 description: Regard et astuces sur l'animation des retrospectives.
-title: Animer une retrospective
+title: En fin de semaine, place à la retrospective
 image_url: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/retrospective.jpg
 ---
 
