@@ -1,5 +1,5 @@
 ---
-title: Stages sans bureaux
+title: Astuces organisationnelles pour tuteurs/stagiaires
 description: On a mis en place des méthodes pour s'organiser - parfois à distance - qu'on souhaite vous partager.
 image_url: 
 ---
