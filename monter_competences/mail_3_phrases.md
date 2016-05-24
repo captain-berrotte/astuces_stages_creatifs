@@ -1,3 +1,9 @@
+---
+title: L'email ou le SMS de 3 phrases
+description: Une pratique pour favoriser l'efficacité autant qu'un engagement en équipe pour limiter l'infobesité.
+image_url:
+---
+
 # L'email ou le SMS de 3 phrases
 
 > Après ces quelques années à pratiquer l'e-mail de 5 phrases de Guy Kawazaki, je vous propose ma version épurée qui fonctionne aussi bien pour l'écriture e-mail que l'écriture sms. N'hésitez pas à diffuser cet écrit ou à le modifier, il est placé sous une licence libre Creative Commons BY-SA qui l'autorise. Thomas Wolff
