@@ -1,7 +1,7 @@
 ---
 title: L'email ou le SMS de 3 phrases
 description: Une pratique pour favoriser l'efficacité autant qu'un engagement en équipe pour limiter l'infobesité.
-image_url:
+image_url: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/44-1.png
 ---
 
 # L'email ou le SMS de 3 phrases
