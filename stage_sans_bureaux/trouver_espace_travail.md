@@ -1,7 +1,7 @@
 ---
 description: Cartographie de lieux de travail insolites et gratuits à Nantes
 title: Trouver à Nantes un bon spot pour travailler
-image: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/teletravail_cowork.jpg?raw=true
+image_url: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/teletravail_cowork.jpg?raw=true
 ---
 
 # Pas de bureaux ... comment faire pour trouver un espace où coworker? 
