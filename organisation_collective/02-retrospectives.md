@@ -1,10 +1,9 @@
 ---
-description: Regard et astuces sur l'animation des retrospectives.
-title: En fin de semaine, place à la retrospective
-image_url: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/retrospective.jpg?raw=true
+description: "Regard et astuces sur l'animation des retrospectives."
+title: "En fin de semaine, place à la retrospective"
+image_url: "https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/retrospective.jpg?raw=true"
+published: true
 ---
-
-
 # La retrospective
 
 Nous réalisons cet atelier en fin de semaine pour regarder comment ça c'est passée la semaine et ce qu'on peut améliorer. 
@@ -135,12 +134,3 @@ Dans l'exemple montré ci dessus nous avons reccueilli les données dans un [tab
 ## Sources
 
 Document compilé et publié par Thomas Wolff, selon les termes de la licence Creative Commons BY-SA
-
-
-
-
-
-
-
-
-
