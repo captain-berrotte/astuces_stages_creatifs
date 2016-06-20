@@ -1,7 +1,7 @@
 ---
-title: Astuces organisationnelles pour tuteurs/stagiaires
-description: On a mis en place des méthodes pour s'organiser - parfois à distance - qu'on souhaite vous partager.
-image_url: 
+title: Astuces organisationnelles pour tuteurs/stagiaires - présentation du dépôt de fiches
+description: On a mis en place des méthodes pour s'organiser qu'on souhaite vous partager.
+image_url: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/retrospective.jpg?raw=true
 ---
 
 # Astuces pour des stages créatifs
